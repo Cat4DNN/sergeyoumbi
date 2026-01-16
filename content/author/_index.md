@@ -97,14 +97,16 @@ These languages share a common thread: they make it natural to think in terms of
 ### Professional
 
 - **GitHub**: [github.com/sergeyoumbi](https://github.com/sergeyoumbi)
+- **Cat4DNN Project**: [github.com/Cat4DNN](https://github.com/Cat4DNN)
 - **LinkedIn**: [linkedin.com/in/sergeyoumbi](https://linkedin.com/in/sergeyoumbi)
-- **Twitter**: [@sergeyoumbi](https://twitter.com/sergeyoumbi)
 
 </div>
 <div class="col-md-6">
 
-### Get in Touch
+### Social & Contact
 
+- **YouTube**: [Category Theory & DNN](https://youtube.com/channel/UCtQUTq8fvWQAQKx72HLdzLw)
+- **X/Twitter**: [@CatDNN](https://twitter.com/CatDNN)
 - **Email**: [serge.youms56@gmail.com](mailto:serge.youms56@gmail.com)
 
 I'm always happy to discuss category theory, deep learning, functional programming, or potential collaborations.
