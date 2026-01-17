@@ -82,3 +82,15 @@ The key insight is that **collective intelligence** often outperforms individual
 ---
 
 *Interested in the technical details? Check out my [publications](/publications/) or [get in touch](/contact/).*
+
+---
+
+## References
+
+Hong, S. and Zhang, Z. (2023) 'FinGPT: Open-source financial large language models', *FinLLM Symposium at IJCAI 2023*. Available at: https://arxiv.org/abs/2306.06031.
+
+Li, Y., Wang, S., Ding, H. and Chen, H. (2023) 'Large language models in finance: A survey', *Proceedings of the Fourth ACM International Conference on AI in Finance*. ACM, pp. 1-9.
+
+Wu, S., Irsoy, O., Lu, S., Dabravolski, V., Dredze, M., Gehrmann, S., Kambadur, P., Rosenberg, D. and Mann, G. (2023) 'BloombergGPT: A large language model for finance', *arXiv preprint arXiv:2303.17564*.
+
+Yang, H., Liu, X.Y. and Wang, C.D. (2023) 'FinRL-Meta: Market environments and benchmarks for data-driven financial reinforcement learning', *Advances in Neural Information Processing Systems*, 35, pp. 1835-1849.

@@ -9,7 +9,7 @@ lead = "Bridging the gap between abstract mathematics and practical AI applicati
 
 ## Hello, I'm Serge Youmbi
 
-I am a **PhD Researcher** at the **University of Derby**, where I explore the fascinating intersection of **Category Theory**, **Deep Learning**, and **Computational Finance**. My research aims to bring mathematical rigor to AI systems while ensuring they remain practical and deployable in real-world financial environments.
+I am a **PhD Researcher** at the **University of Derby**, where I explore the fascinating intersection of **Category Theory**, **Deep Learning**, and **Computational Finance**. My research aims to bring mathematical rigour to AI systems while ensuring they remain practical and deployable in real-world financial environments.
 
 ---
 
@@ -62,7 +62,7 @@ When I'm not diving into mathematical abstractions or training neural networks, 
 - **Teaching** — Sharing knowledge through tutorials and workshops
 - **Open Source** — Contributing to functional programming and ML communities
 - **Writing** — Making complex topics accessible through blog posts and documentation
-- **Mentoring** — Helping aspiring researchers navigate academia and industry
+- **Mentoring** — Helping young people (in particular secondary school pupils) sharpen their curiosity about Mathematics and languages (natural languages and programming languages)
 
 ---
 

@@ -121,3 +121,17 @@ Algebraic effects represent a fundamental shift in how we think about programmin
 ---
 
 *Want to learn more? Check out my [research](/research/) on algebraic effects in financial systems, or [reach out](/contact/) directly.*
+
+---
+
+## References
+
+Bauer, A. and Pretnar, M. (2015) 'Programming with algebraic effects and handlers', *Journal of Logical and Algebraic Methods in Programming*, 84(1), pp. 108-123.
+
+Brasil, F. (2024) *Kyo: Algebraic effects for Scala*. GitHub repository. Available at: https://github.com/getkyo/kyo.
+
+Plotkin, G. and Power, J. (2003) 'Algebraic operations and generic effects', *Applied Categorical Structures*, 11(1), pp. 69-94.
+
+Plotkin, G. and Pretnar, M. (2009) 'Handlers of algebraic effects', *Programming Languages and Systems: 18th European Symposium on Programming, ESOP 2009*. Berlin: Springer, pp. 80-94.
+
+Pretnar, M. (2015) 'An introduction to algebraic effects and handlers', *Electronic Notes in Theoretical Computer Science*, 319, pp. 19-35.

@@ -18,7 +18,8 @@ I'm always excited to hear from fellow researchers, industry professionals, and 
 <div class="contact-grid">
 
 ### Email
-**s.youmbi@derby.ac.uk**
+**serge.youmbi@derby.ac.uk** (University)
+**serge.youms56@gmail.com** (Personal)
 
 *Best for detailed inquiries, collaboration proposals, and formal correspondence.*
 
@@ -30,10 +31,11 @@ DE22 1GB, United Kingdom
 
 ### Social Profiles
 
-- **GitHub** — [@sergeyoumbi](https://github.com/sergeyoumbi)
-- **LinkedIn** — [Serge Youmbi](https://linkedin.com/in/sergeyoumbi)
+- **GitHub** — [@Cat4DNN](https://github.com/Cat4DNN)
+- **LinkedIn** — [Cat4DNN](https://linkedin.com/in/Cat4DNN)
 - **Twitter/X** — [@CatDNN](https://twitter.com/CatDNN)
-- **Google Scholar** — [Publications](https://scholar.google.com)
+- **YouTube** — [Cat4DNN](https://www.youtube.com/channel/UCtQUTq8fvWQAQKx72HLdzLw)
+- **Academia.edu** — [Publications](https://derby.academia.edu/SergeYoumbi)
 
 </div>
 
@@ -72,6 +74,6 @@ To help me respond more effectively, please include:
 ---
 
 <div class="text-center mt-5">
-  <a href="mailto:s.youmbi@derby.ac.uk" class="btn btn-primary btn-lg">Send Email</a>
+  <a href="mailto:serge.youmbi@derby.ac.uk" class="btn btn-primary btn-lg">Send Email</a>
   <a href="https://linkedin.com/in/sergeyoumbi" class="btn btn-outline-primary btn-lg ms-3" target="_blank">Connect on LinkedIn</a>
 </div>

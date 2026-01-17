@@ -118,6 +118,6 @@ My publications span several interconnected themes:
 ---
 
 <div class="text-center mt-5">
-  <a href="https://scholar.google.com" class="btn btn-primary btn-lg" target="_blank">Google Scholar</a>
-  <a href="/contact/" class="btn btn-outline-primary btn-lg ms-3">Request Papers</a>
+  <a href="https://derby.academia.edu/SergeYoumbi" class="btn btn-primary btn-lg" target="_blank">Google Scholar</a>
+  <a href="https://derby.academia.edu/SergeYoumbi" class="btn btn-outline-primary btn-lg ms-3" target="_blank">Request Papers</a>
 </div>

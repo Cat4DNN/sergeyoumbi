@@ -29,19 +29,20 @@ A **category** $\mathcal{C}$ consists of:
 
 $$f: A \to B, \quad g: B \to C \quad \Rightarrow \quad g \circ f: A \to C$$
 
-### Neural Networks as Categories
+### The Para Construction
 
-Consider a simple feedforward network:
+A powerful categorical framework for understanding neural networks is the **Para construction** (Fong, Spivak and Tuyéras, 2019). Given a symmetric monoidal category $(\mathcal{C}, \otimes, I)$, the Para construction creates a new category where:
 
-```
-Input → Layer1 → Layer2 → Layer3 → Output
-```
+- **Objects** remain the same as in $\mathcal{C}$
+- **Morphisms** from $A$ to $B$ are pairs $(P, f)$ where $P$ is a "parameter object" and $f: P \otimes A \to B$
 
-Each layer is a morphism, and the entire network is a composition of morphisms. The categorical perspective reveals:
+This elegantly captures how neural network layers have both:
+1. **Parameters** (weights and biases) — the object $P$
+2. **Computation** (the forward pass) — the morphism $f$
 
-- **Associativity**: $(h \circ g) \circ f = h \circ (g \circ f)$ — the order of bracketing doesn't matter
-- **Identity**: Every object has an identity morphism — skip connections!
-- **Functors**: Structure-preserving maps between categories — transfer learning!
+The composition of Para morphisms naturally models how parameters flow through layered architectures. As shown by Cruttwell et al. (2022), this framework extends to capture backpropagation through the notion of **reverse derivative categories**.
+
+$$\text{Para}(\mathcal{C})(A, B) = \coprod_{P \in \mathcal{C}} \mathcal{C}(P \otimes A, B)$$
 
 ## Functors: The Key to Transfer Learning
 
@@ -74,3 +75,15 @@ Category theory isn't just abstract nonsense — it's a powerful tool for unders
 ---
 
 *Have questions? Reach out on [Twitter](https://twitter.com/CatDNN) or [contact me](/contact/) directly.*
+
+---
+
+## References
+
+Cruttwell, G.S.H., Gavranović, B., Ghani, N., Wilson, P. and Zanasi, F. (2022) 'Categorical foundations of gradient-based learning', *Programming Languages and Systems: 31st European Symposium on Programming, ESOP 2022*. Cham: Springer, pp. 1-28.
+
+Fong, B., Spivak, D. and Tuyéras, R. (2019) 'Backprop as functor: A compositional perspective on supervised learning', *Proceedings of the 34th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)*. IEEE, pp. 1-13.
+
+Mac Lane, S. (1998) *Categories for the Working Mathematician*. 2nd edn. New York: Springer-Verlag.
+
+Spivak, D.I. (2014) *Category Theory for the Sciences*. Cambridge, MA: MIT Press.
