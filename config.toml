@@ -31,9 +31,10 @@ include_description = true
 # Whether to include the rendered content of the page/section in the index
 include_content = true
 
-[markdown]
-# Whether to do syntax highlighting.
-highlight_code = true
+[markdown.highlighting]
+# Syntax highlighting configuration
+style = "inline"
+theme = "github-dark"
 
 [extra]
 # Put all your custom variables here
